@@ -89,11 +89,15 @@ def main() -> None:
     afc = [(index, count) for (index, count) in enumerate(afc_counter)]
     nfc = [(index, count) for (index, count) in enumerate(nfc_counter)]
     
+    print("========= AFC =========")
     print("Last Digit | Occurances")
     for index, count in bubble_sort(afc):
-        print(f"{index:-10} | {count}")
+        print(f"{index:<10} | {count}")
 
-
+    print("========= NFC =========")
+    print("Last Digit | Occurances")
+    for index, count in bubble_sort(nfc):
+        print(f"{index:<10} | {count}")
 
 if __name__ == "__main__":
     main()
