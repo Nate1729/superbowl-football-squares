@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "superbowl-football-squares"
+version = "0.1.0"
+description = ""
+authors = ["Nate Ferreira <nferreira1729@gmail.com>"]
+readme = "README.md"
+packages = [{include = "superbowl_football_squares"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
