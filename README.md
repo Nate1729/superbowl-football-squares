@@ -29,31 +29,29 @@ Now we get to the results of the analysis. Looking through
 the box scores of all 58 superbowls we get these results for
 occurances of each value.
 
-|           AFC         ||
-|Last Digit | Occurances |
-| --------- | ---------- |
-|0          | 64         |
-|7          | 42         |
-|3          | 34         |
-|4          | 31         |
-|6          | 19         |
-|1          | 14         |
-|8          | 9          |
-|9          | 9          |
-|2          | 7          |
-|5          | 3          |
+| Last Digit (AFC) | Occurances |
+|:----------------:|:----------:|
+|0                 | 64         |
+|7                 | 42         |
+|3                 | 34         |
+|4                 | 31         |
+|6                 | 19         |
+|1                 | 14         |
+|8                 | 9          |
+|9                 | 9          |
+|2                 | 7          |
+|5                 | 3          |
 
-|           NFC         ||
-|Last Digit | Occurances |
-| --------- | ---------- |
-|0          | 61         |
-|7          | 41         |
-|3          | 40         |
-|4          | 18         |
-|1          | 16         |
-|6          | 16         |
-|9          | 14         |
-|8          | 11         |
-|5          | 8          |
-|2          | 7          |
+| Last Digit (NFC) | Occurances |
+|:----------------:|:----------:|
+|0                 | 61         |
+|7                 | 41         |
+|3                 | 40         |
+|4                 | 18         |
+|1                 | 16         |
+|6                 | 16         |
+|9                 | 14         |
+|8                 | 11         |
+|5                 | 8          |
+|2                 | 7          |
 
